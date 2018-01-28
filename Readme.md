@@ -2,6 +2,6 @@
 
 Este é um repositório teste para ensinar ocmo Git funciona.
 
-Saiba mais em [hugobraganca.github.io] (http://hugobraganca.github.com)
+Saiba mais em [williamjusten.com.br](http://willianjusten.com.br)
 
 Gostou do curso? Quer mais?
